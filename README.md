@@ -1,0 +1,2 @@
+# hercules-plugin
+qgis plugin
